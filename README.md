@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimanusaifa&label=Profile%20views&color=0e75b6&style=flat" alt="fathimanusaifa" /> </p>
 
 
-- 👋Hey there! I'm currently pursuing a BSc (Hons.) in Information Technology at the University of Moratuwa.
+- 👋Hey there! I'm currently pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa.
 - 🚀 Passionate about development, software testing, and UX design.
 - 🤝 Open to collaborating with others in the tech community.
 - 🎯 Interested in full-stack development and Quality Assurance.
